@@ -18,8 +18,8 @@ Brindar un repositorio centralizado y actualizado donde la comunidad estudiantil
 ## 📥 ¿Cómo descargar un formato?
 
 1. Haz clic en la carpeta que corresponda al tipo de trámite.
-2. Selecciona el archivo deseado.
-3. Pulsa el botón `Download` para descargarlo directamente.
+2. Selecciona e ingresa en el archivo deseado.
+3. Pulsa el botón "Download" o en la opción "View raw" para descargarlo directamente.
 
 ---
 
